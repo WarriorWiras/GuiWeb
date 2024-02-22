@@ -130,7 +130,7 @@
             </div>
             <!-- -----------------------Project 7 done---------------------- --> 
             <div class="portfolio__content grid swiper-slide">
-                <img src="img/Projects/Terminal.jpg" class="portfolio__img"/>
+                <img src="img/Projects/Gui.jpg" class="portfolio__img"/>
 
                 <div class="portfolio__data">
                     <h3 class="portfolio__title">Project Gui Web</h3>
