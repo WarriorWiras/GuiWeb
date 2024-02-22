@@ -539,6 +539,12 @@ img {
 .skills__IDSIPS{
     width: 65%;
 }
+.skills__vercel{
+    width: 85%;
+}
+.skills__github{
+    width: 90%;
+}
 
 /* For Application*/
 .skills__DockPort{
@@ -557,7 +563,9 @@ img {
 .skills__Networking{
     width: 75%;
 }
-
+.skills__EHPT{
+    width: 65%;
+}
 
 
 

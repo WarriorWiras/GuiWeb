@@ -186,6 +186,24 @@
                             <span class="skills__percentage skills__IDSIPS"></span>
                         </div>
                     </div>
+                    <div class="skills__data">
+                        <div class="skills__titles">
+                            <h3 class="skills__name">Vercel</h3>
+                            <span class="skills__nuber">85%</span>
+                        </div>
+                        <div class="skills__bar">
+                            <span class="skills__percentage skills__vercel"></span>
+                        </div>
+                    </div>
+                    <div class="skills__data">
+                        <div class="skills__titles">
+                            <h3 class="skills__name">Github</h3>
+                            <span class="skills__nuber">90%</span>
+                        </div>
+                        <div class="skills__bar">
+                            <span class="skills__percentage skills__github"></span>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -244,6 +262,15 @@
                         </div>
                         <div class="skills__bar">
                             <span class="skills__percentage skills__Networking"></span>
+                        </div>
+                    </div>
+                                        <div class="skills__data">
+                        <div class="skills__titles">
+                            <h3 class="skills__name">Ethical Hacking & Penetration Testing</h3>
+                            <span class="skills__nuber">65%</span>
+                        </div>
+                        <div class="skills__bar">
+                            <span class="skills__percentage skills__EHPT"></span>
                         </div>
                     </div>
                 </div>

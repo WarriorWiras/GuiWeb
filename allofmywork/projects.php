@@ -128,6 +128,31 @@
                     </a>
                 </div>
             </div>
+            <!-- -----------------------Project 7 done---------------------- --> 
+            <div class="portfolio__content grid swiper-slide">
+                <img src="img/Projects/Terminal.jpg" class="portfolio__img"/>
+
+                <div class="portfolio__data">
+                    <h3 class="portfolio__title">Project Gui Web</h3>
+                    <p class="portfolio__description">
+                        A personal portfolio website using Javascript, CSS, HTML & a little of PHP.
+                    </p>
+                    <a
+                        href="https://github.com/WarriorWiras/GuiWeb" target="_blank"
+                        class="button button--flex button--small portfolio__button"
+                        >
+                        View Project Gui Web
+                        <i class="uil uil-external-link-alt button__icon"></i>
+                    </a>
+                    <a
+                        href="https://www.wafiyuddin.name" target="_blank"
+                        class="button button--flex button--small portfolio__button"
+                        >
+                        See Live
+                        <i class="uil uil-external-link-alt button__icon"></i>
+                    </a>
+                </div>
+            </div>
 
         </div>
 
