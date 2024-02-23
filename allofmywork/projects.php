@@ -44,7 +44,7 @@
                     </a>
                 </div>
             </div>
-            <!-- ------------------------Project 3-------------------- -->
+            <!-- ------------------------Project 3 done-------------------- -->
             <div class="portfolio__content grid swiper-slide">
                 <img src="img/Projects/amazon-web-services-news.jpg" class="portfolio__img" />
 
@@ -54,7 +54,7 @@
                         Implementation of Cloud Security
                     </p>
                     <a
-                        href="" target="_blank"
+                        href="https://github.com/WarriorWiras/AWS-Project" target="_blank"
                         class="button button--flex button--small portfolio__button"
                         >
                         View Project AWS
@@ -63,7 +63,7 @@
                 </div>
             </div>
 
-            <!-- ------------------------Project 4-------------------- -->
+            <!-- ------------------------Project 4 done-------------------- -->
             <div class="portfolio__content grid swiper-slide">
                 <img src="img/Projects/RP Project.jpg" class="portfolio__img" />
 
@@ -73,7 +73,7 @@
                         A self-contained network environment was created for penetration testing.
                     </p>
                     <a
-                        href="" target="_blank"
+                        href="https://github.com/WarriorWiras/IT-Security-C200" target="_blank"
                         class="button button--flex button--small portfolio__button"
                         >
                         View Project IT Security
