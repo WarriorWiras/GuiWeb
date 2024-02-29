@@ -12,7 +12,7 @@ $year = (date('Y') - date('Y', strtotime($dob)));
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Warriorwiras | My Portfolio</title>
+        <title>Muhd Wafiyuddin | My Portfolio</title>
         <link rel="stylesheet" href="CSS/swiper-bundle.min.css" />
         <link rel="stylesheet" href="CSS/newcss.css" />
         <link

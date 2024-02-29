@@ -27,24 +27,7 @@
                 </div>
             </div>
 
-            <!-- ------------------------Project 2-------------------- -->
-            <div class="portfolio__content grid swiper-slide">
-                <img id="myImgg" src="img/Projects/log-docker-with-portainer-1280x720.jpg" class="portfolio__img" />
-                <div class="portfolio__data">
-                    <h3 class="portfolio__title">Project Docker</h3>
-                    <p class="portfolio__description">
-                        Using Docker & Portainer to do various projects.
-                    </p>
-                    <a
-                        href="" target="_blank"
-                        class="button button--flex button--small portfolio__button"
-                        >
-                        View Project Docker
-                        <i class="uil uil-external-link-alt button__icon"></i>
-                    </a>
-                </div>
-            </div>
-            <!-- ------------------------Project 3 done-------------------- -->
+            <!-- ------------------------Project 2 done-------------------- -->
             <div class="portfolio__content grid swiper-slide">
                 <img src="img/Projects/amazon-web-services-news.jpg" class="portfolio__img" />
 
@@ -63,7 +46,7 @@
                 </div>
             </div>
 
-            <!-- ------------------------Project 4 done-------------------- -->
+            <!-- ------------------------Project 3 done-------------------- -->
             <div class="portfolio__content grid swiper-slide">
                 <img src="img/Projects/RP Project.jpg" class="portfolio__img" />
 
@@ -81,7 +64,7 @@
                     </a>
                 </div>
             </div>
-            <!-- -----------------------Project 5 done---------------------- -->
+            <!-- -----------------------Project 4 done---------------------- -->
             <div class="portfolio__content grid swiper-slide">
 
                 <img id="myImgg" src="img/Projects/Linode.jpg" class="portfolio__img"/>
@@ -103,7 +86,7 @@
                     </a>
                 </div>
             </div>
-            <!-- -----------------------Project 6 done---------------------- -->
+            <!-- -----------------------Project 5 done---------------------- -->
             <div class="portfolio__content grid swiper-slide">
                 <img src="img/Projects/Terminal.jpg" class="portfolio__img"/>
 
@@ -128,7 +111,7 @@
                     </a>
                 </div>
             </div>
-            <!-- -----------------------Project 7 done---------------------- --> 
+            <!-- -----------------------Project 6 done---------------------- --> 
             <div class="portfolio__content grid swiper-slide">
                 <img src="img/Projects/Gui.jpg" class="portfolio__img"/>
 
