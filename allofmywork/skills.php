@@ -282,6 +282,36 @@
                             <span class="skills__percentage skills__EHPT"></span>
                         </div>
                     </div>
+                    
+                                        <div class="skills__data">
+                        <div class="skills__titles">
+                            <h3 class="skills__name">Passbolt Password Manager</h3>
+                            <span class="skills__nuber">95%</span>
+                        </div>
+                        <div class="skills__bar">
+                            <span class="skills__percentage skills__PPM"></span>
+                        </div>
+                    </div>
+                    
+                                        <div class="skills__data">
+                        <div class="skills__titles">
+                            <h3 class="skills__name">Kasm Workspaces</h3>
+                            <span class="skills__nuber">87%</span>
+                        </div>
+                        <div class="skills__bar">
+                            <span class="skills__percentage skills__KW"></span>
+                        </div>
+                    </div>
+                    
+                                        <div class="skills__data">
+                        <div class="skills__titles">
+                            <h3 class="skills__name">Wireguard VPN</h3>
+                            <span class="skills__nuber">95%</span>
+                        </div>
+                        <div class="skills__bar">
+                            <span class="skills__percentage skills__WVPN"></span>
+                        </div>
+                    </div>
                 </div>
             </div>
             <!-- TO BE CONTINUE!!! -->
