@@ -7,7 +7,7 @@
 
         <div class="about__data">
             <p class="about__description">
-                I'm an Ethical Hacking, Programming, and Network Security enthusiast. Currently pursuing a Diploma in Information Security Management at Republic Polytechnic.<br>
+                I'm an Ethical Hacking, Programming, and Network Security enthusiast. Currently graduated from Diploma in Information Security Management at Republic Polytechnic.<br>
                 <br>I've been interested in learning more about IT security and how I can help society by preventing cyber attacks and securing a system since I was 13 years old. In my spare time, I'm constantly working on new projects to broaden and deepen my knowledge of this field. In my diploma program, I have always helped my peers by ensuring that they are well-versed in the topics and capable of performing well in the program.<br>
                 <br>Aside from my Cyber Security goal, I enjoy getting out in nature with my friends and family, whether by cycling or hiking. It helps me to advance my interest in cyber security while also promoting a healthy lifestyle.
                 <br><br>
@@ -18,7 +18,7 @@
             <div class="about__info">
 
                 <div>
-                    <span class="about__info-title"><?php echo +-5;                            ?></span>
+                    <span class="about__info-title"><?php echo $final;                            ?></span>
                     <span class="about__info-name">Projects</span>
                 </div>
 

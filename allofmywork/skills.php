@@ -161,7 +161,7 @@
                     </div>
                     <div class="skills__data">
                         <div class="skills__titles">
-                            <h3 class="skills__name">AWS CLoud Service</h3>
+                            <h3 class="skills__name">AWS Cloud Service</h3>
                             <span class="skills__nuber">70%</span>
                         </div>
                         <div class="skills__bar">
@@ -204,12 +204,21 @@
                             <span class="skills__percentage skills__github"></span>
                         </div>
                     </div>
+                    <div class="skills__data">
+                        <div class="skills__titles">
+                            <h3 class="skills__name">Linode Cloud Service</h3>
+                            <span class="skills__nuber">90%</span>
+                        </div>
+                        <div class="skills__bar">
+                            <span class="skills__percentage skills__Linode"></span>
+                        </div>
+                    </div>
                 </div>
             </div>
 
             <div class="skills__content skills__close">
                 <div class="skills__header">
-                    <i class="fas fa-code skills__icon"></i>
+                    <i class="fas fa-laptop skills__icon"></i>
 
                     <div>
                         <h1 class="skills__title">Application</h1>
@@ -264,7 +273,7 @@
                             <span class="skills__percentage skills__Networking"></span>
                         </div>
                     </div>
-                                        <div class="skills__data">
+                    <div class="skills__data">
                         <div class="skills__titles">
                             <h3 class="skills__name">Ethical Hacking & Penetration Testing</h3>
                             <span class="skills__nuber">65%</span>
