@@ -18,7 +18,7 @@
             <div class="about__info">
 
                 <div>
-                    <span class="about__info-title"><?php echo $final;                            ?></span>
+                    <span class="about__info-title"><?php echo $final;?></span>
                     <span class="about__info-name">Projects</span>
                 </div>
 
@@ -34,7 +34,7 @@
                 </a>
                 &nbsp;&nbsp;
                 <a download="" href="https://drive.google.com/drive/folders/1EStJiV3dJAl-8D516ohkycSA8H5atGn2?usp=drive_link" class="button button--flex">
-                    View my Awards<i class="fas fa-award button__icon"></i>
+                    View my Awards & Portfolios<i class="fas fa-award button__icon"></i>
                 </a>
             </div>
         </div>              
