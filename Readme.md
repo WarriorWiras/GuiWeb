@@ -15,6 +15,18 @@ I created it to practice building GUI-based web applications, experiment with UI
 
 ---
 
+## 🖼️ Preview  
+
+### Version 2 (Current - Dark Theme)  
+![GuiWeb Version 2 Preview](https://via.placeholder.com/1000x500.png?text=Website+Preview+-+Version+2)  
+
+### Version 1 (Initial - Simple Layout)  
+![GuiWeb Version 1 Preview](https://via.placeholder.com/1000x500.png?text=Website+Preview+-+Version+1)  
+
+*(Replace the placeholder images above with actual screenshots of your website — you can upload them to your repo under `/assets/preview/` and link them here.)*  
+
+---
+
 ## ✨ Features  
 
 - Fully responsive design, viewable on desktop and mobile  
