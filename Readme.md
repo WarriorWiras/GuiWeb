@@ -15,20 +15,6 @@ I created it to practice building GUI-based web applications, experiment with UI
 
 ---
 
-## 🖼️ Preview  
-
-### Version 2 (Current - Dark Theme)  
-![GuiWeb Version 2 Preview](https://via.placeholder.com/1000x500.png?text=Website+Preview+-+Version+2)  
-
-### Version 1 (Initial - Simple Layout)  
-
-<div align="center">
-  <img src="https://github.com/WarriorWiras/GuiWeb/blob/main/Version%201/Website-Demo-Images/Desktop_Dark_Mode.png" alt="GuiWeb Version 1 Preview (Desktop)" width="200" height="200"/>
-  <img src="https://github.com/WarriorWiras/GuiWeb/blob/main/Version%201/Website-Demo-Images/Mobile_Dark_Mode.png" alt="GuiWeb Version 1 Preview (Mobile)" width="200"/>
-</div>
-
----
-
 ## ✨ Features  
 
 - Fully responsive design, viewable on desktop and mobile  
