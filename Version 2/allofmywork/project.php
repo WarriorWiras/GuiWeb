@@ -41,10 +41,10 @@ if (is_array($repos)) {
 
     <header>
         <h2 class="h2 article-title">Projects</h2>
-            <p class="project-count" style="margin-top: 5px; font-size: 1rem; color: white;">
-        Total Projects: <?php echo $final - 1; ?>
-    </p>
-    <br>
+        <p class="project-count" style="margin-top: 5px; font-size: 1rem; color: white;">
+            Total Projects: <?php echo $final - 1; ?>
+        </p>
+        <br>
     </header>
 
     <section class="projects">
@@ -106,12 +106,12 @@ if (is_array($repos)) {
                 <li class="select-item">
                     <button data-select-item>Programming</button>
                 </li>
-                
-                               <li class="select-item">
+
+                <li class="select-item">
                     <button data-select-item>Cloud</button>
                 </li>
-                
-                               <li class="select-item">
+
+                <li class="select-item">
                     <button data-select-item>Others</button>
                 </li>
 
@@ -311,6 +311,43 @@ if (is_array($repos)) {
                     </figure>
 
                     <h3 class="project-title">Networking</h3>
+
+                    <p class="project-category">Cyber Security</p>
+
+                </a>
+            </li>
+
+
+            <li class="project-item  active" data-filter-item data-category="programming">
+                <a href="https://github.com/WarriorWiras/Embedded-System" target="__blank">
+
+                    <figure class="project-img">
+                        <div class="project-item-icon-box">
+                            <ion-icon name="eye-outline"></ion-icon>
+                        </div>
+
+                        <img src="./assets/images/Projects/Embedded_System.png" alt="Embedded Project Image" loading="lazy">
+                    </figure>
+
+                    <h3 class="project-title">Embedded Systems</h3>
+
+                    <p class="project-category">Programming</p>
+
+                </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="cyber security">
+                <a href="https://github.com/WarriorWiras/Ethical-Hacking" target="__blank">
+
+                    <figure class="project-img">
+                        <div class="project-item-icon-box">
+                            <ion-icon name="eye-outline"></ion-icon>
+                        </div>
+
+                        <img src="./assets/images/Projects/Ethical_Hacking.png" alt="Ethical Hacking Image" loading="lazy">
+                    </figure>
+
+                    <h3 class="project-title">Ethical Hacking</h3>
 
                     <p class="project-category">Cyber Security</p>
 
