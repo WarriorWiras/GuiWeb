@@ -307,7 +307,8 @@ if (is_array($repos)) {
                             <ion-icon name="eye-outline"></ion-icon>
                         </div>
 
-                        <img src="./assets/images/Projects/Networkings.png" alt="Networking Project Image" loading="lazy">
+                        <img src="./assets/images/Projects/Networkings.png" alt="Networking Project Image"
+                            loading="lazy">
                     </figure>
 
                     <h3 class="project-title">Networking</h3>
@@ -326,7 +327,8 @@ if (is_array($repos)) {
                             <ion-icon name="eye-outline"></ion-icon>
                         </div>
 
-                        <img src="./assets/images/Projects/Embedded_System.png" alt="Embedded Project Image" loading="lazy">
+                        <img src="./assets/images/Projects/Embedded_System.png" alt="Embedded Project Image"
+                            loading="lazy">
                     </figure>
 
                     <h3 class="project-title">Embedded Systems</h3>
@@ -344,7 +346,8 @@ if (is_array($repos)) {
                             <ion-icon name="eye-outline"></ion-icon>
                         </div>
 
-                        <img src="./assets/images/Projects/Ethical_Hacking.png" alt="Ethical Hacking Image" loading="lazy">
+                        <img src="./assets/images/Projects/Ethical_Hacking.png" alt="Ethical Hacking Image"
+                            loading="lazy">
                     </figure>
 
                     <h3 class="project-title">Ethical Hacking</h3>
@@ -359,5 +362,3 @@ if (is_array($repos)) {
     </section>
 
 </article>
-
-
