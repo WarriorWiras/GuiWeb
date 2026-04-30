@@ -41,10 +41,10 @@ if (is_array($repos)) {
 
     <header>
         <h2 class="h2 article-title">Projects</h2>
-        <p class="project-count" style="margin-top: 5px; font-size: 1rem; color: white;">
-            Total Projects: <?php echo $final - 1; ?>
-        </p>
-        <br>
+            <p class="project-count" style="margin-top: 5px; font-size: 1rem; color: white;">
+        Total Projects: <?php echo $final - 1; ?>
+    </p>
+    <br>
     </header>
 
     <section class="projects">
@@ -106,12 +106,12 @@ if (is_array($repos)) {
                 <li class="select-item">
                     <button data-select-item>Programming</button>
                 </li>
-
-                <li class="select-item">
+                
+                               <li class="select-item">
                     <button data-select-item>Cloud</button>
                 </li>
-
-                <li class="select-item">
+                
+                               <li class="select-item">
                     <button data-select-item>Others</button>
                 </li>
 
@@ -129,7 +129,7 @@ if (is_array($repos)) {
                             <ion-icon name="eye-outline"></ion-icon>
                         </div>
 
-                        <img src="./assets/images/Projects/Raspberry Pi 4.webp" alt="Raspberry Pi" loading="lazy">
+                        <img src="img/Projects/Raspberry Pi 4.webp" alt="Raspberry Pi" loading="lazy">
                     </figure>
 
                     <h3 class="project-title">Project Pi</h3>
@@ -149,7 +149,7 @@ if (is_array($repos)) {
                             <ion-icon name="eye-outline"></ion-icon>
                         </div>
 
-                        <img src="./assets/images/Projects/amazon-web-services-news.webp" alt="AWS" loading="lazy">
+                        <img src="img/Projects/amazon-web-services-news.webp" alt="AWS" loading="lazy">
                     </figure>
 
                     <h3 class="project-title">Project AWS</h3>
@@ -169,7 +169,7 @@ if (is_array($repos)) {
                             <ion-icon name="eye-outline"></ion-icon>
                         </div>
 
-                        <img src="./assets/images/Projects/RP Project.jpg" alt="IT Security" loading="lazy">
+                        <img src="img/Projects/RP Project.jpg" alt="IT Security" loading="lazy">
                     </figure>
 
                     <h3 class="project-title">Project IT Security</h3>
@@ -189,7 +189,7 @@ if (is_array($repos)) {
                             <ion-icon name="eye-outline"></ion-icon>
                         </div>
 
-                        <img src="./assets/images/Projects/Linode.webp" alt="Linode" loading="lazy">
+                        <img src="img/Projects/Linode.webp" alt="Linode" loading="lazy">
                     </figure>
 
                     <h3 class="project-title">Project Linode</h3>
@@ -209,7 +209,7 @@ if (is_array($repos)) {
                             <ion-icon name="eye-outline"></ion-icon>
                         </div>
 
-                        <img src="./assets/images/Projects/Terminal.jpg" alt="Terminal Web" loading="lazy">
+                        <img src="img/Projects/Terminal.jpg" alt="Terminal Web" loading="lazy">
                     </figure>
 
                     <h3 class="project-title">Project Terminal Web</h3>
@@ -231,7 +231,7 @@ if (is_array($repos)) {
                             <ion-icon name="eye-outline"></ion-icon>
                         </div>
 
-                        <img src="./assets/images/Projects/GUI.png" alt="GUI Web" loading="lazy">
+                        <img src="img/Projects/GUI.png" alt="GUI Web" loading="lazy">
                     </figure>
 
                     <h3 class="project-title">Project GUI Web</h3>
@@ -253,7 +253,7 @@ if (is_array($repos)) {
                             <ion-icon name="eye-outline"></ion-icon>
                         </div>
 
-                        <img src="./assets/images/Projects/Python-Project.jpeg" alt="Python Project" loading="lazy">
+                        <img src="img/Projects/Python-Project.jpeg" alt="Python Project" loading="lazy">
                     </figure>
 
                     <h3 class="project-title">Python Projects</h3>
@@ -271,7 +271,7 @@ if (is_array($repos)) {
                             <ion-icon name="eye-outline"></ion-icon>
                         </div>
 
-                        <img src="./assets/images/Projects/Java.png" alt="Java Programming Image" loading="lazy">
+                        <img src="img/Projects/Java.png" alt="Java Programming Image" loading="lazy">
                     </figure>
 
                     <h3 class="project-title">Java Projects</h3>
@@ -289,7 +289,7 @@ if (is_array($repos)) {
                             <ion-icon name="eye-outline"></ion-icon>
                         </div>
 
-                        <img src="./assets/images/Projects/Google_Cloud.png" alt="Google Cloud Image" loading="lazy">
+                        <img src="img/Projects/Google_Cloud.png" alt="Google Cloud Image" loading="lazy">
                     </figure>
 
                     <h3 class="project-title">Google Cloud Projects</h3>
@@ -307,8 +307,7 @@ if (is_array($repos)) {
                             <ion-icon name="eye-outline"></ion-icon>
                         </div>
 
-                        <img src="./assets/images/Projects/Networkings.png" alt="Networking Project Image"
-                            loading="lazy">
+                        <img src="img/Projects/Networkings.png" alt="Networking Project Image" loading="lazy">
                     </figure>
 
                     <h3 class="project-title">Networking</h3>
@@ -319,7 +318,7 @@ if (is_array($repos)) {
             </li>
 
 
-            <li class="project-item  active" data-filter-item data-category="programming">
+                        <li class="project-item  active" data-filter-item data-category="programming">
                 <a href="https://github.com/WarriorWiras/Embedded-System" target="__blank">
 
                     <figure class="project-img">
@@ -327,8 +326,7 @@ if (is_array($repos)) {
                             <ion-icon name="eye-outline"></ion-icon>
                         </div>
 
-                        <img src="./assets/images/Projects/Embedded_System.png" alt="Embedded Project Image"
-                            loading="lazy">
+                        <img src="img/Projects/Embedded_System.png" alt="Embedded Project Image" loading="lazy">
                     </figure>
 
                     <h3 class="project-title">Embedded Systems</h3>
@@ -346,11 +344,82 @@ if (is_array($repos)) {
                             <ion-icon name="eye-outline"></ion-icon>
                         </div>
 
-                        <img src="./assets/images/Projects/Ethical_Hacking.png" alt="Ethical Hacking Image"
-                            loading="lazy">
+                        <img src="img/Projects/Ethical_Hacking.png" alt="Ethical Hacking Image" loading="lazy">
                     </figure>
 
                     <h3 class="project-title">Ethical Hacking</h3>
+
+                    <p class="project-category">Cyber Security</p>
+
+                </a>
+            </li>
+
+                        <li class="project-item  active" data-filter-item data-category="cyber security">
+                <a href="https://github.com/WarriorWiras/Mobile-Security-Projects" target="__blank">
+
+                    <figure class="project-img">
+                        <div class="project-item-icon-box">
+                            <ion-icon name="eye-outline"></ion-icon>
+                        </div>
+
+                        <img src="img/Projects/Mobile_Security.png" alt="Mobile Security Image" loading="lazy">
+                    </figure>
+
+                    <h3 class="project-title">Mobile Security</h3>
+
+                    <p class="project-category">Cyber Security</p>
+
+                </a>
+            </li>
+
+                        <li class="project-item  active" data-filter-item data-category="programming">
+                <a href="https://github.com/WarriorWiras/Machine-Learning-Projects" target="__blank">
+
+                    <figure class="project-img">
+                        <div class="project-item-icon-box">
+                            <ion-icon name="eye-outline"></ion-icon>
+                        </div>
+
+                        <img src="img/Projects/Machine_Learning.png" alt="Machine Learning Image" loading="lazy">
+                    </figure>
+
+                    <h3 class="project-title">Machine Learning</h3>
+
+                    <p class="project-category">Programming</p>
+
+                </a>
+            </li>
+
+                        <li class="project-item  active" data-filter-item data-category="cyber security">
+                <a href="https://github.com/WarriorWiras/Cryptography-Projects" target="__blank">
+
+                    <figure class="project-img">
+                        <div class="project-item-icon-box">
+                            <ion-icon name="eye-outline"></ion-icon>
+                        </div>
+
+                        <img src="img/Projects/Cryptography.png" alt="Cryptography Image" loading="lazy">
+                    </figure>
+
+                    <h3 class="project-title">Cryptography</h3>
+
+                    <p class="project-category">Cyber Security</p>
+
+                </a>
+            </li>
+
+                        <li class="project-item  active" data-filter-item data-category="cyber security">
+                <a href="https://github.com/WarriorWiras/Web-Security-Projects" target="__blank">
+
+                    <figure class="project-img">
+                        <div class="project-item-icon-box">
+                            <ion-icon name="eye-outline"></ion-icon>
+                        </div>
+
+                        <img src="img/Projects/Web_Security.png" alt="Web Security Image" loading="lazy">
+                    </figure>
+
+                    <h3 class="project-title">Web Security</h3>
 
                     <p class="project-category">Cyber Security</p>
 
@@ -362,3 +431,5 @@ if (is_array($repos)) {
     </section>
 
 </article>
+
+
